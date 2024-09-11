@@ -1,0 +1,12 @@
+Assignment: Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need
+
+Answer: I would start by following the steps suggested in the "How to gather requirements for your data project" blog post on your website (Reference:https://www.startdataengineering.com/post/n-questions-data-pipeline-req/#2-gathering-requirements)
+
+To summarize, I would:
+
+1) Identify the end-users
+2) Help end-users define the requirements
+3) Plan end-user validation
+4) Deliver iteratively
+5) Handlie changing requirements/new features
+
